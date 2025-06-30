@@ -1,4 +1,4 @@
-const token = "251645330:pvcQSw9aK6kHO2uZwbD3jTIjUgsZ1aIlpckPkVsm";
+const token = "";
 
 process.on("uncaughtException", async (er) => {
     console.log(er.message);
